@@ -1,0 +1,2 @@
+# This is a simple example of Merge Conflict.
+## It shows the merge conflict between branches "branch_one" and "branch_two".
