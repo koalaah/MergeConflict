@@ -1,2 +1,4 @@
 # This is a simple example of Merge Conflict.
-## It shows the merge conflict between branches "branch_one" and "branch_two".
+# It shows the merge conflict between branches "branch_one" and "branch_two".
+
+# Both branches will make changes to Line 6 on the same file (MergeConflictExample.txt) which is the file you are currently looking at.
