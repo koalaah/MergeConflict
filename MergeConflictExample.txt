@@ -3,6 +3,6 @@
 
 # Both branches will make changes to Line 6 on the same file (MergeConflictExample.txt) which is the file you are currently looking at.
 
-
+This was written from "branch_one"
 This was written from "branch_two" (to resolve Merge Conflict)
 Now safe to merge
